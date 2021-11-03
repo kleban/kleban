@@ -4,7 +4,7 @@
 
 ## Profiles
 [![Website](https://img.shields.io/website?label=kleban.page&style=for-the-badge&url=https://kleban.page)](https://kleban.page)
-[![Website](https://img.shields.io/website?label=Profile at&style=for-the-badge&url=https://oa.edu.ua)](https://qa.oa.edu.ua/cv/yuriy_kleban)
+[![Website](https://img.shields.io/website?label=Profile&style=for-the-badge&url=https://oa.edu.ua)](https://qa.oa.edu.ua/cv/yuriy_kleban)
 
 ###
 <!--
